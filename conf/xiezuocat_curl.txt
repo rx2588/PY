@@ -1,0 +1,17 @@
+curl 'https://xiezuocat.com/html/generate/pc/commit?isSampleDocument=false' \
+  -H 'authority: xiezuocat.com' \
+  -H 'accept: application/json, text/plain, */*; charset=utf-8' \
+  -H 'accept-language: zh-CN,zh;q=0.9,en;q=0.8,vi;q=0.7' \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/json' \
+  -H 'cookie: Hm_lvt_099c1a390e23e6b73b081c48519f6e8e=1670431335; headimgurl="https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTI3EdVbdfVOdJHYlLYo8xYpQRDWErgibn5InjcRhjTcX1mdpicQYClgHNMZ2q57VEiaXkVSJMvceF4Vg/132"; nickname=None; traceid=98c2963462b94270; sid=28af85ecbc6c4bec9e807b0a737f5b7f; uid=6390c2b4ba2a886e4d083d63; Hm_lpvt_099c1a390e23e6b73b081c48519f6e8e=1671099483; JSESSIONID=F371BC5D95CAFE159E2E872EC8EBCED1' \
+  -H 'origin: https://xiezuocat.com' \
+  -H 'pragma: no-cache' \
+  -H 'referer: https://xiezuocat.com/' \
+  -H 'sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'
