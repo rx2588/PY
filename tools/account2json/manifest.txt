@@ -1,0 +1,2 @@
+Main-Class: Main
+Class-Path: lib/selenium-java-4.7.2/selenium-api-4.7.2.jar lib/fastjson-1.2.83.jar
